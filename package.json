@@ -1,6 +1,6 @@
 {
-  "name": "egg-logger-sls",
-  "version": "1.4.2",
+  "name": "@catalystclan/egg-logger-sls",
+  "version": "1.4.2-1",
   "description": "Logger transport for aliyun sls",
   "eggPlugin": {
     "name": "loggerSLS",
